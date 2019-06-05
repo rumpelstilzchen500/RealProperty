@@ -1,0 +1,8 @@
+pluginManagement {
+	repositories {
+		gradlePluginPortal()
+	}
+}
+rootProject.name = 'RealProperty'
+include 'realProperty-api', 'realProperty-ui'
+
